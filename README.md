@@ -10,9 +10,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="#">
+<!--   <a href="#">
     <img src="Python.png" alt="Logo" width="190" height="130">
-  </a>
+  </a> -->
 
   <h1 align="center">Mhariskh ReactJs Portfolio - Revamp </h1>
 
